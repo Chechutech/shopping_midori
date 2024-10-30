@@ -1,0 +1,20 @@
+#root {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.app-container {
+  /* width: 95%; */
+  margin-top: 20px;
+  /* background:yellow; */
+}
+h2 {
+  padding: 30px;
+  text-align: center;
+}
+.cart-page-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  background: #f3f6fd;
+}

@@ -1,0 +1,1019 @@
+[
+    {
+        "code": "14024547",
+        "name": "Dextro Energy Dextrose Sport Tablets",
+        "supplier": "Kyberg Pharma",
+        "dosageForm": "Tablets",
+        "rating": 0,
+        "reviewCount": 0,
+        "packagingSize": "2 x 14 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,07 €/u.",
+        "available": true,
+        "stock": -1,
+        "prices": {
+            "salesPrice": {
+                "value": 2.04,
+                "formattedValue": "2,04 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 2.4,
+                "formattedValue": "2,40 €"
+            },
+            "savings": {
+                "value": 0.36,
+                "formattedValue": "0,36 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1036930,
+                "versionNumber": 2,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://m.media-amazon.com/images/I/51AXD+ZMgJL._AC_PIbundle-3,TopRight,0,0_SH20_.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://m.media-amazon.com/images/I/51AXD+ZMgJL._AC_PIbundle-3,TopRight,0,0_SH20_.jpg"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "15410235",
+        "name": "Waterpik Whitening Tablets 30",
+        "supplier": "Dentaid",
+        "dosageForm": "Tablets",
+        "rating": 0,
+        "reviewCount": 0,
+        "packagingSize": "30 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,38 €/u.",
+        "available": false,
+        "prices": {
+            "salesPrice": {
+                "value": 11.4,
+                "formattedValue": "11,40 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 12.95,
+                "formattedValue": "12,95 €"
+            },
+            "savings": {
+                "value": 1.55,
+                "formattedValue": "1,55 €"
+            },
+            "savingsPercentageFormatted": "12%"
+        },
+        "images": [
+            {
+                "id": 1039349,
+                "versionNumber": 2,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "90": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-90-1662684034.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-90-1662684034@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-90-1662684034.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-90-1662684034@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-90-1662684034.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-90-1662684034@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 90,
+                        "height": 90
+                    },
+                    "100": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-100-1662684034.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-100-1662684034@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-100-1662684034.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-100-1662684034@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-100-1662684034.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-100-1662684034@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 100,
+                        "height": 100
+                    },
+                    "140": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-140-1662684034.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-140-1662684034@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-140-1662684034.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://liki24.es/image/catalog/product/newupload/33536-pastile-de-albit-wt-30eu-pt-wf-06-30-tablete-waterpik-1.jpg?w=900&h=900"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-140-1662684034.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-140-1662684034@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    },
+                    "300": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-300-1662684034.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-300-1662684034@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-300-1662684034.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-300-1662684034@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-300-1662684034.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-300-1662684034@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 300,
+                        "height": 300
+                    },
+                    "420": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-420-1662684034.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-420-1662684034@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-420-1662684034.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-420-1662684034@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-420-1662684034.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-420-1662684034@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 420,
+                        "height": 420
+                    },
+                    "1000": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-1000-1662684034.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-1000-1662684034@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-1000-1662684034.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-1000-1662684034@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-1000-1662684034.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/15410235/waterpik-whitening-tablets-30-st-15410235-default-1000-1662684034@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "14064529",
+        "name": "Crataegutt 450 mg cardiovascular tablet",
+        "supplier": "Dr.Willmar Schwabe",
+        "dosageForm": "Film-coated tablets",
+        "rating": 4.6667,
+        "reviewCount": 117,
+        "packagingSize": "50 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,39 €/u.",
+        "url": "/crataegutt-450-mg-herzkreislauftablett/14064529",
+        "available": true,
+        "stock": 78,
+        "categories": [
+            {
+                "id": "H004",
+                "name": "Herz, Kreislauf & Gefäße"
+            },
+            {
+                "id": "H004H001",
+                "name": "Herzstärkung"
+            },
+            {
+                "id": "H004K001",
+                "name": "Kreislaufbeschwerden"
+            }
+        ],
+        "saleConditions": {
+            "OR": [
+                {
+                    "code": "14064529",
+                    "packagingSize": "50 St."
+                },
+                {
+                    "code": "14064535",
+                    "packagingSize": "100 St."
+                },
+                {
+                    "code": "14064541",
+                    "packagingSize": "200 St."
+                }
+            ]
+        },
+        "prices": {
+            "salesPrice": {
+                "value": 19.53,
+                "formattedValue": "19,53 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 22.98,
+                "formattedValue": "22,98 €"
+            },
+            "savings": {
+                "value": 3.45,
+                "formattedValue": "3,45 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1036577,
+                "versionNumber": 2,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "90": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-90-1662678719.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-90-1662678719@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-90-1662678719.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-90-1662678719@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-90-1662678719.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-90-1662678719@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 90,
+                        "height": 90
+                    },
+                    "100": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-100-1662678719.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-100-1662678719@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-100-1662678719.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-100-1662678719@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-100-1662678719.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-100-1662678719@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 100,
+                        "height": 100
+                    },
+                    "140": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-140-1662678719.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-140-1662678719@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-140-1662678719.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://herboahorro.com/cdn/shop/products/CARDIOPLUS_540x.jpg?v=1656346913"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-140-1662678719.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-140-1662678719@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    },
+                    "300": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-300-1662678719.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-300-1662678719@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-300-1662678719.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-300-1662678719@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-300-1662678719.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-300-1662678719@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 300,
+                        "height": 300
+                    },
+                    "420": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-420-1662678719.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-420-1662678719@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-420-1662678719.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-420-1662678719@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-420-1662678719.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-420-1662678719@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 420,
+                        "height": 420
+                    },
+                    "1000": {
+                        "formats": {
+                            "avif": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-1000-1662678719.avif"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-1000-1662678719@2x.avif"
+                                    }
+                                }
+                            },
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-1000-1662678719.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-1000-1662678719@2x.jpg"
+                                    }
+                                }
+                            },
+                            "webp": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-1000-1662678719.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://media.docmorris.de/produkte-pzn/14064529/crataegutt-450-mg-herz-kreislauf-tablett-50-st-14064529-default-1000-1662678719@2x.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "03991095",
+        "name": "Ipalat Throat lozenges sugar-free",
+        "supplier": "Dr.R.PFLEGER ",
+        "dosageForm": "Pastilles",
+        "rating": 4.7958,
+        "reviewCount": 191,
+        "packagingSize": "40 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,13 €/u.",
+        "available": true,
+        "stock": 167,
+        "prices": {
+            "salesPrice": {
+                "value": 5.07,
+                "formattedValue": "5,07 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 5.97,
+                "formattedValue": "5,97 €"
+            },
+            "savings": {
+                "value": 0.9,
+                "formattedValue": "0,90 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1004483,
+                "versionNumber": 2,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://www.apohealth.de/cdn/shop/files/06159842_08_38f98a1b-5474-423f-988f-1786175ee6c9_695x695.jpg?v=1728191273"
+                                    },
+                                    "2x": {
+                                        "url": "https://www.apohealth.de/cdn/shop/files/06159842_08_38f98a1b-5474-423f-988f-1786175ee6c9_695x695.jpg?v=1728191273"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "15201371",
+        "name": "GeloRevoice Throat lozenges elderflower-menthol-free",
+        "supplier": "G. Pohl-Boskamp & Co.KG",
+        "dosageForm": "Lozenges",
+        "rating": 4.7288,
+        "reviewCount": 59,
+        "packagingSize": "20 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,42 €/u.",
+        "available": true,
+        "stock": 81,
+        "prices": {
+            "salesPrice": {
+                "value": 8.41,
+                "formattedValue": "8,41 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 9.9,
+                "formattedValue": "9,90 €"
+            },
+            "savings": {
+                "value": 1.49,
+                "formattedValue": "1,49 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1137746,
+                "versionNumber": 3,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://www.apohealth.de/cdn/shop/files/08846050_01_695x695.jpg?v=1728203805"
+                                    },
+                                    "2x": {
+                                        "url": "https://www.apohealth.de/cdn/shop/files/08846050_01_695x695.jpg?v=1728203805"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "12700079",
+        "name": "DOLO-DOBENDAN lozenges",
+        "supplier": "Reckitt Benckiser",
+        "dosageForm": "lozenges",
+        "rating": 4.7082,
+        "reviewCount": 233,
+        "packagingSize": "36 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,31 €/u.",
+        "available": true,
+        "stock": 0,
+        "prices": {
+            "salesPrice": {
+                "value": 11.02,
+                "formattedValue": "11,02 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 12.97,
+                "formattedValue": "12,97 €"
+            },
+            "savings": {
+                "value": 1.95,
+                "formattedValue": "1,95 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1212806,
+                "versionNumber": 3,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "dolo-dobendan-1-4-mg-10-mg-lutschtablett-36-st-12700079-default-140-1684527037.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "dolo-dobendan-1-4-mg-10-mg-lutschtablett-36-st-12700079-default-140-1684527037@2x.jpg"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "00826622",
+        "name": "neo-angin Throat lozenges sugar-free",
+        "supplier": "MCM KLOSTERFRAU.",
+        "dosageForm": "lozenges",
+        "rating": 4.7466,
+        "reviewCount": 146,
+        "packagingSize": "48 Unit",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,31 €/u.",
+        "available": true,
+        "stock": 34,
+        "prices": {
+            "salesPrice": {
+                "value": 15,
+                "formattedValue": "15,00 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 17.65,
+                "formattedValue": "17,65 €"
+            },
+            "savings": {
+                "value": 2.65,
+                "formattedValue": "2,65 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 995275,
+                "versionNumber": 2,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "00826622/neo-angin-halstabletten-zuckerfrei-48-st-00826622-default-140-1662375450.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "00826622/neo-angin-halstabletten-zuckerfrei-48-st-00826622-default-140-1662375450@2x.jpg"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "08997145",
+        "name": "neo-angin Throat lozenges cherry",
+        "supplier": "MCM KLOSTERFRAU.",
+        "dosageForm": "lozenges",
+        "rating": 4.8421,
+        "reviewCount": 19,
+        "packagingSize": "24 units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,36 €/u.",
+        "available": true,
+        "stock": 3,
+        "prices": {
+            "salesPrice": {
+                "value": 8.63,
+                "formattedValue": "8,63 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 10.15,
+                "formattedValue": "10,15 €"
+            },
+            "savings": {
+                "value": 1.52,
+                "formattedValue": "1,52 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1013936,
+                "versionNumber": 2,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "08997145/neo-angin-halstabletten-kirsche-24-st-08997145-default-140-1662394188.jpg"
+                                    },
+                                    "2x": {
+                                        "url": "08997145/neo-angin-halstabletten-kirsche-24-st-08997145-default-140-1662394188@2x.jpg"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "01921529",
+        "name": "Baldrian Dispert 45 mg coated tablet",
+        "supplier": "CHEPLAPHARM",
+        "dosageForm": "Coated tablets",
+        "rating": 4.8571,
+        "reviewCount": 21,
+        "packagingSize": "50 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,12 €/u.",
+        "available": true,
+        "stock": 199,
+        "prices": {
+            "salesPrice": {
+                "value": 5.92,
+                "formattedValue": "5,92 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 6.97,
+                "formattedValue": "6,97 €"
+            },
+            "savings": {
+                "value": 1.05,
+                "formattedValue": "1,05 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1147186,
+                "versionNumber": 3,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/medpex"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "1x": {
+                                        "url": "https://es.mainphar.com/image/ncache/catalog/pharm/04491756-1.398.webp"
+                                    },
+                                    "2x": {
+                                        "url": "https://es.mainphar.com/image/ncache/catalog/pharm/04491756-1.398.webp"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "code": "06866410",
+        "name": "DOBENDAN Direct Flurbiprofen 8 75 mg lozenges",
+        "supplier": "Reckitt Benckiser",
+        "dosageForm": "lozenges",
+        "rating": 4.6296,
+        "reviewCount": 108,
+        "packagingSize": "24 Units",
+        "defaultSaleCondition": "OR",
+        "baseprice": "0,39 €/u.",
+        "available": true,
+        "stock": 23,
+        "prices": {
+            "salesPrice": {
+                "value": 9.32,
+                "formattedValue": "9,32 €"
+            },
+            "recommendedRetailPrice": {
+                "value": 10.97,
+                "formattedValue": "10,97 €"
+            },
+            "savings": {
+                "value": 1.65,
+                "formattedValue": "1,65 €"
+            },
+            "savingsPercentageFormatted": "15%"
+        },
+        "images": [
+            {
+                "id": 1212755,
+                "versionNumber": 3,
+                "meta": {
+                    "tags": [
+                        "/packshot",
+                        "/perspective/default",
+                        "/source/hersteller"
+                    ]
+                },
+                "variants": {
+                    "140": {
+                        "formats": {
+                            "jpg": {
+                                "resolutions": {
+                                    "2x": {
+                                        "url": "dobendan-direkt-flurbiprofen-8-75-mg-lut-24-st-06866410-default-140-1684526839@2x.jpg"
+                                    }
+                                }
+                            }
+                        },
+                        "width": 140,
+                        "height": 140
+                    }
+                }
+            }
+        ]
+    }
+]

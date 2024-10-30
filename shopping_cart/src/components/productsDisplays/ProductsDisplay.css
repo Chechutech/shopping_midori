@@ -1,0 +1,17 @@
+.productList-display {
+  width: 70%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 17px;
+  padding: 20px;
+}
+
+@media (max-width: 720px) {
+  .productList-display {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .productList-display h2 {
+    margin-left: 10px;
+  }
+}
