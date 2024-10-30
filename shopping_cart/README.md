@@ -2,6 +2,9 @@
 
 This project provides a minimal implementation of a shopping cart using React, Typescript, Context API, Reducers and unit testing with Vitest.
 
+##   Demo
+
+🚀 Check the demo here!
 
 ## Installation
 
@@ -10,7 +13,7 @@ This project provides a minimal implementation of a shopping cart using React, T
 Clone the project
 
 ```bash
-  git clone https://github.com/Chechutech/
+  git clone https://github.com/Chechutech/shopping_midori.git
 ```
 
 Install dependencies
