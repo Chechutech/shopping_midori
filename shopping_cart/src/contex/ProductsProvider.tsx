@@ -6,6 +6,7 @@ import { ProductsContext } from "./ProductsContext";
 
 const URL= "https://shopping-midori.onrender.com/api/products"
 
+
 export const ProductsProvider = ({ children }: children) => {
   const [products, setProducts] = useState<productItem[]>([]);
 
