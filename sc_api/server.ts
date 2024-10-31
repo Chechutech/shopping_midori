@@ -5,6 +5,8 @@ import cors from "cors";
 const app = express();
 app.use(cors())
 
+const PORT = process.env.PORT || 8000;
+
 const dataJson = "./data/products.json";
 
 
@@ -28,7 +30,7 @@ app.get("/api/products", (req: Request, res: Response) =>{
     }
 });
 
-const PORT = 8000;
+
 
 app.listen(PORT, () => {
     console.log(`We are listening on port ${PORT}`);
