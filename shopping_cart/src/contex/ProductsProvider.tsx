@@ -4,7 +4,7 @@ import { ProductsContext } from "./ProductsContext";
  
 
 
-const URL= "https://shopping-midori.onrender.com/api/products"
+const URL= "http://localhost:8000/api/products"
 
 
 export const ProductsProvider = ({ children }: children) => {

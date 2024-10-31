@@ -6,24 +6,26 @@ const app = express();
 app.use(cors())
 
 const dataJson = "./data/products.json";
-let cachedData =[]
+
 
 const getData = () => {
     try {
     const data = fs.readFileSync(dataJson, "utf8");
-    cachedData = JSON.parse(data);
-    console.log(cachedData, "this is")
+     return JSON.parse(data);
     } catch (error) {
     console.error(error, "Error");
-    cachedData = [];
+   
     }
 };
 
-getData();
+
 
 app.get("/api/products", (req: Request, res: Response) =>{
     const data= getData();
     res.json(data);
+    if (!data) {
+        return res.status(500).json({ error: "Error fetching." });
+    }
 });
 
 const PORT = 8000;
