@@ -6,13 +6,16 @@ const app = express();
 app.use(cors())
 
 const dataJson = "./data/products.json";
+let cachedData =[]
 
 const getData = () => {
     try {
     const data = fs.readFileSync(dataJson, "utf8");
-    return JSON.parse(data);
+    cachedData = JSON.parse(data);
+    console.log(cachedData, "this is")
     } catch (error) {
     console.error(error, "Error");
+    cachedData = [];
     }
 };
 

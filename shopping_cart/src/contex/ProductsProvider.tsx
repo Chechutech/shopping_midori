@@ -13,6 +13,9 @@ export const ProductsProvider = ({ children }: children) => {
   const fetchProducts = async () => {
     try {
       const response = await fetch(URL);
+      if (!response.ok) {
+        throw new Error(`Fetching products failed",${response.status}`)
+      }
       //WITHOUT THE API
       // const convertedToText = await response.text();
       // const convertedData = `[${convertedToText}]`;
